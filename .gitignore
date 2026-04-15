@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+*.joblib
+.DS_Store
+data/clinvar_cardiac.csv
+data/variant_summary.txt.gz
